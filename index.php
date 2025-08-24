@@ -12,6 +12,8 @@ echo $BInstance->getName().PHP_EOL;*/
 echo \App\ClassA::getName().PHP_EOL;
 echo \App\ClassB::getName().PHP_EOL;
 
+echo "git testing";
+
 
 
 ?>
