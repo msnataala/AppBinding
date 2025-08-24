@@ -16,6 +16,8 @@ echo "git testing";
 
 echo 'not in track';
 
+echo 'to test pull';
+
 
 
 ?>
