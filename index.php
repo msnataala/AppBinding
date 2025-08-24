@@ -9,8 +9,8 @@ $BInstance = new \App\classB();
 echo $AInstance->getName().PHP_EOL;
 echo $BInstance->getName().PHP_EOL;*/
 
+echo 'try again conflict';
 
-echo 'conflict';
 echo 'merge';
 echo \App\ClassA::getName().PHP_EOL;
 echo \App\ClassB::getName().PHP_EOL;
