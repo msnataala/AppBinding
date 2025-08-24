@@ -14,6 +14,8 @@ echo \App\ClassB::getName().PHP_EOL;
 
 echo "git testing";
 
+echo 'not in track';
+
 
 
 ?>
